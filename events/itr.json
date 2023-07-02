@@ -1,44 +1,27 @@
 [
   {
-    "id": "0242009C-F2B3-4FEF-9985-FFDEB2344FF0",
-    "title": "Stars & Stripes",
-    "emoji": "🅑",
-    "date": 710146800
+    "title": "Golden State",
+    "emoji": "🅘",
+    "dateString": "2023-07-01"
   },
   {
-    "id": "7B1642DC-598A-498B-A8BF-20D7891C4897",
-    "title": "Dirty Dozen",
-    "emoji": "🅑",
-    "date": 710492400
+    "title": "Reservoir Dogs",
+    "emoji": "🅘",
+    "dateString": "2023-07-15"
   },
   {
-    "id": "CD8D0D79-F5D9-4146-9170-22DD4ADD73F6",
-    "title": "Bad Bass",
-    "emoji": "🅑",
-    "date": 711702000
+    "title": "Berkeley Trail Adventure",
+    "emoji": "🅘",
+    "dateString": "2023-09-16"
   },
   {
-    "id": "77F1DDD8-2272-4EE7-849B-251AB8071071",
-    "title": "Summer Breeze",
-    "emoji": "🅑",
-    "date": 712306800
+    "title": "Mt Tam",
+    "emoji": "🅘",
+    "dateString": "2023-11-11"
   },
   {
-    "id": "69E9E727-5815-4D25-8E56-6F84794A0E67",
-    "title": "Bear Creak",
-    "emoji": "🅑",
-    "date": 713516400
-  },
-  {
-    "id": "948D7C9F-44B4-4439-BF00-0ACA8942DE22",
-    "title": "Double Dipsea",
-    "emoji": "🅑",
-    "date": 714726000
-  },
-  {
-    "id": "83E5D95B-2F56-482E-88D0-C195D32614D8",
-    "title": "Rocky Ridge",
-    "emoji": "🅑",
-    "date": 717145200
+    "title": "Woodside Ramble",
+    "emoji": "🅘",
+    "dateString": "2023-12-16"
   }
 ]

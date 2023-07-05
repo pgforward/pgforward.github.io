@@ -2,43 +2,25 @@
   {
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000101",
     "eventType" : "itr",
-    "note" : "itrStars & Stripes",
-    "date" : "2023-07-04T08:00:00Z"
+    "note" : "Rodeo Valley",
+    "date" : "2023-08-05T15:00:00Z"
   },
   {
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000102",
     "eventType" : "itr",
-    "note" : "itrDirty Dozen",
-    "date" : "2023-07-08T08:00:00Z"
+    "note" : "Berkeley Trail Adventure",
+    "date" : "2023-09-16T08:00:00Z"
   },
   {
     "id" : "E09C5625-08D5-4AB0-BF5E-000000000103",
     "eventType" : "itr",
-    "note" : "itrBad Bass",
-    "date" : "2023-07-22T08:00:00Z"
+    "note" : "Mt Tam",
+    "date" : "2023-11-11T08:00:00Z"
   },
   {
     "id" : "2E4DE589-A4D8-48C1-9D88-000000000104",
     "eventType" : "itr",
-    "note" : "itrSummer Breeze",
-    "date" : "2023-07-29T08:00:00Z"
-  },
-  {
-    "id" : "35BF97FB-70DA-4D5E-B358-000000000105",
-    "eventType" : "itr",
-    "note" : "itrBear Creek",
-    "date" : "2023-08-12T08:00:00Z"
-  },
-  {
-    "id" : "B171DCDC-AE9A-461E-9B2E-000000000106",
-    "eventType" : "itr",
-    "note" : "itrDouble Dipsea",
-    "date" : "2023-08-26T08:00:00Z"
-  },
-  {
-    "id" : "ACB268D1-4E1C-4E69-9E78-000000000107",
-    "eventType" : "itr",
-    "note" : "itrRocky Ridge.",
-    "date" : "2023-09-23T08:00:00Z"
+    "note" : "Woodside Ramble",
+    "date" : "2023-12-16T08:00:00Z"
   }
 ]

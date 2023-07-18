@@ -2,43 +2,25 @@
   {
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000201",
     "eventType" : "coastal",
-    "note" : "Coastal & Stripes",
-    "date" : "2023-07-04T08:00:00Z"
+    "note" : "Rodeo Beach Trail Run",
+    "date" : "2023-08-12T08:00:00Z"
   },
   {
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000202",
     "eventType" : "coastal",
-    "note" : "Coastal Dozen",
-    "date" : "2023-07-08T08:00:00Z"
+    "note" : "The Groves",
+    "date" : "2023-09-09T08:00:00Z"
   },
   {
     "id" : "E09C5625-08D5-4AB0-BF5E-000000000203",
     "eventType" : "coastal",
-    "note" : "Coastal Bass",
-    "date" : "2023-07-22T08:00:00Z"
+    "note" : Arnold Rim Trail Run",
+    "date" : "2023-09-30T08:00:00Z"
   },
   {
     "id" : "2E4DE589-A4D8-48C1-9D88-000000000204",
     "eventType" : "coastal",
-    "note" : "Coastal Breeze",
-    "date" : "2023-07-29T08:00:00Z"
-  },
-  {
-    "id" : "35BF97FB-70DA-4D5E-B358-000000000205",
-    "eventType" : "coastal",
-    "note" : "Coastal Creek",
-    "date" : "2023-08-12T08:00:00Z"
-  },
-  {
-    "id" : "B171DCDC-AE9A-461E-9B2E-000000000206",
-    "eventType" : "coastal",
-    "note" : "Coastal Dipsea",
-    "date" : "2023-08-26T08:00:00Z"
-  },
-  {
-    "id" : "ACB268D1-4E1C-4E69-9E78-000000000207",
-    "eventType" : "coastal",
-    "note" : "Coastal Ridge.",
-    "date" : "2023-09-23T08:00:00Z"
+    "note" : "Woodside Trail Run",
+    "date" : "2023-11-04T08:00:00Z"
   }
 ]

@@ -9,18 +9,18 @@
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000102",
     "eventType" : "itr",
     "note" : "Berkeley Trail Adventure",
-    "date" : "2023-09-16T08:00:00Z"
+    "date" : "2023-09-16T15:00:00Z"
   },
   {
     "id" : "E09C5625-08D5-4AB0-BF5E-000000000103",
     "eventType" : "itr",
     "note" : "Mt Tam",
-    "date" : "2023-11-11T08:00:00Z"
+    "date" : "2023-11-11T15:00:00Z"
   },
   {
     "id" : "2E4DE589-A4D8-48C1-9D88-000000000104",
     "eventType" : "itr",
     "note" : "Woodside Ramble",
-    "date" : "2023-12-16T08:00:00Z"
+    "date" : "2023-12-16T15:00:00Z"
   }
 ]

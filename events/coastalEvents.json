@@ -3,24 +3,24 @@
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000201",
     "eventType" : "coastal",
     "note" : "Rodeo Beach Trail Run",
-    "date" : "2023-08-12T08:00:00Z"
+    "date" : "2023-08-12T15:00:00Z"
   },
   {
     "id" : "6F3D8DD3-D3CF-4B7C-A038-000000000202",
     "eventType" : "coastal",
     "note" : "The Groves",
-    "date" : "2023-09-09T08:00:00Z"
+    "date" : "2023-09-09T15:00:00Z"
   },
   {
     "id" : "E09C5625-08D5-4AB0-BF5E-000000000203",
     "eventType" : "coastal",
     "note" : "Arnold Rim Trail Run",
-    "date" : "2023-09-30T08:00:00Z"
+    "date" : "2023-09-30T15:00:00Z"
   },
   {
     "id" : "2E4DE589-A4D8-48C1-9D88-000000000204",
     "eventType" : "coastal",
     "note" : "Woodside Trail Run",
-    "date" : "2023-11-04T08:00:00Z"
+    "date" : "2023-11-04T15:00:00Z"
   }
 ]

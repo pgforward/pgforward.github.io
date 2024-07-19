@@ -1,72 +1,93 @@
 {
-  "name" : "Inside Trail",
-  "longitude" : -122.16318726968086,
-  "latitude" : 37.695313052392834,
   "placemarks" : [
     {
-      "latitude" : 37.8986196,
-      "longitude" : -122.6410728,
-      "name" : "Muir Woods Mountain Challenge",
       "notes" : "",
-      "address" : "3545 CA-1, Stinson Beach, CA  94970, United States"
+      "longitude" : -121.06869,
+      "event_date" : 736581120,
+      "name" : "Folsom Lake",
+      "address" : "El Dorado Hills, CA 95762, United States",
+      "latitude" : 38.72914
     },
     {
-      "latitude" : 37.8200912,
-      "name" : "Oakland Hills",
-      "notes" : "",
-      "address" : "9725 Skyline Blvd, Oakland, CA  94611, United States",
-      "longitude" : -122.1880497
+      "event_date" : null,
+      "longitude" : -122.249985,
+      "address" : "2501 Grizzly Peak Blvd, Orinda, CA  94563, United States",
+      "latitude" : 37.901196,
+      "name" : "Berkeley Trail Adenture",
+      "notes" : ""
     },
     {
-      "notes" : "",
-      "address" : "Mitchell Rd, Sausalito, CA  94965, United States",
-      "latitude" : 37.831567864522356,
-      "name" : "Rodeo Valley",
-      "longitude" : -122.53519585625268
+      "event_date" : null,
+      "latitude" : 38.0091009,
+      "address" : "800 N San Pedro Rd, San Rafael, CA  94903, United States",
+      "longitude" : -122.4956098,
+      "name" : "Peacock Gap Trail Run",
+      "notes" : ""
     },
     {
-      "name" : "Golden State",
-      "notes" : "",
-      "latitude" : 36.6509175,
       "address" : "W Camp St & Watkins Gate Rd, Salinas, CA  93908, United States",
-      "longitude" : -121.7413079
+      "longitude" : -121.7413079,
+      "name" : "Golden State",
+      "event_date" : null,
+      "notes" : "",
+      "latitude" : 36.6509175
     },
     {
-      "longitude" : -122.6410728,
+      "address" : "9725 Skyline Blvd, Oakland, CA  94611, United States",
+      "latitude" : 37.8200912,
       "notes" : "",
+      "event_date" : null,
+      "longitude" : -122.1880497,
+      "name" : "Oakland Hills"
+    },
+    {
+      "name" : "Rodeo Valley",
+      "latitude" : 37.831567864522356,
+      "notes" : "",
+      "longitude" : -122.53519585625268,
+      "event_date" : 744443280,
+      "address" : "Mitchell Rd, Sausalito, CA  94965, United States"
+    },
+    {
+      "name" : "Muir Woods Mountain Challenge",
       "latitude" : 37.8986196,
-      "name" : "Mt Tam Trail Run",
-      "address" : "3545 CA-1, Stinson Beach, CA  94970, United States"
-    },
-    {
-      "address" : "101 Big Trees Park Rd, Felton, CA  95018, United States",
       "notes" : "",
-      "name" : "Santa Cruz",
-      "latitude" : 37.0416451,
-      "longitude" : -122.0648034
+      "event_date" : null,
+      "longitude" : -122.6410728,
+      "address" : "3545 CA-1, Stinson Beach, CA  94970, United States"
     },
     {
       "name" : "Reseroir Dogs",
-      "longitude" : -122.2633723,
-      "notes" : "",
+      "event_date" : null,
       "latitude" : 37.9418416,
+      "notes" : "",
+      "longitude" : -122.2633723,
       "address" : "500 Old San Pablo Dam Rd, El Sobrante, CA  94803, United States"
     },
     {
-      "latitude" : 38.0091009,
-      "longitude" : -122.4956098,
+      "latitude" : 37.8986196,
+      "address" : "3545 CA-1, Stinson Beach, CA  94970, United States",
+      "name" : "Mt Tam Trail Run",
+      "longitude" : -122.6410728,
       "notes" : "",
-      "name" : "Peacock Gap Trail Run",
-      "address" : "800 N San Pedro Rd, San Rafael, CA  94903, United States"
+      "event_date" : null
     },
     {
-      "name" : "Berkeley Trail Adenture",
-      "latitude" : 37.901196,
-      "notes" : "",
-      "address" : "2501 Grizzly Peak Blvd, Orinda, CA  94563, United States",
-      "longitude" : -122.249985
+      "address" : "101 Big Trees Park Rd, Felton, CA  95018, United States",
+      "event_date" : null,
+      "latitude" : 37.0416451,
+      "longitude" : -122.0648034,
+      "name" : "Santa Cruz",
+      "notes" : ""
     }
   ],
-  "longitude_delta" : 1.1836837510383305,
-  "latitude_delta" : 1.098546381362162
+  "opacity" : 1,
+  "green" : 0.37254902720451355,
+  "latitude_delta" : 2.357473933889999,
+  "name" : "Inside Trail",
+  "red" : 0.1568625271320343,
+  "longitude" : -121.85047436460434,
+  "latitude" : 38.11758355896782,
+  "longitude_delta" : 2.59798700786277,
+  "blue" : 0.95686274766922
 }

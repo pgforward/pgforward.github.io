@@ -1,65 +1,65 @@
 {
-  "latitude_delta" : 2.3016752836558325,
-  "longitude" : -121.80157989558035,
-  "name" : "Brazen Racing",
   "longitude_delta" : 2.499832177282997,
   "placemarks" : [
     {
-      "latitude" : 37.695105,
       "address" : "14001 Monarch Bay Dr, San Leandro, CA  94577, United States",
-      "longitude" : -122.186457,
+      "name" : "Summer Breeze",
       "notes" : "",
-      "name" : "Summer Breeze"
+      "latitude" : 37.695105,
+      "longitude" : -122.186457
+    },
+    {
+      "longitude" : -121.69052340939476,
+      "name" : "Badger Cove",
+      "address" : "",
+      "latitude" : 37.5779597504537,
+      "notes" : ""
+    },
+    {
+      "address" : "18012 Bollinger Canyon Rd, San Ramon, CA  94583, United States",
+      "longitude" : -122.037716,
+      "notes" : "",
+      "latitude" : 37.8077693,
+      "name" : "Rock Ridge"
+    },
+    {
+      "notes" : "",
+      "longitude" : -121.99519444444445,
+      "name" : "Diablo Summit Stomp",
+      "address" : "Diablo Foothills Regional Park, Diablo Scenic Trail, Walnut Creek, CA  94598, United States",
+      "latitude" : 37.89055555555556
     },
     {
       "latitude" : 37.7151264,
-      "longitude" : -122.1042448,
-      "name" : "Lakeside Laps",
       "address" : "17404 Lake Chabot Rd, Castro Valley, CA  94546, United States",
+      "name" : "Lakeside Laps",
+      "longitude" : -122.1042448,
       "notes" : ""
     },
     {
-      "longitude" : -121.0692573,
-      "name" : "Auburn",
-      "latitude" : 38.8896244,
-      "address" : "855 Pacific Ave, Auburn, CA  95603, United States",
-      "notes" : ""
-    },
-    {
-      "address" : "Diablo Foothills Regional Park, Diablo Scenic Trail, Walnut Creek, CA  94598, United States",
-      "name" : "Diablo Summit Stomp",
-      "latitude" : 37.89055555555556,
-      "longitude" : -121.99519444444445,
-      "notes" : ""
-    },
-    {
-      "latitude" : 37.8987042,
-      "longitude" : -122.6399817,
-      "name" : "Double Dipsea",
-      "address" : "3512 CA-1, Stinson Beach, CA  94970, United States",
-      "notes" : ""
-    },
-    {
-      "name" : "Bear Creek",
       "address" : "Bear Creek Rd, Briones, CA  94549, United States",
+      "longitude" : -122.17983848228543,
       "notes" : "",
-      "latitude" : 37.93543233592575,
-      "longitude" : -122.17983848228543
+      "name" : "Bear Creek",
+      "latitude" : 37.93543233592575
     },
     {
-      "address" : "",
-      "name" : "Badger Cove",
-      "longitude" : -121.69052340939476,
+      "address" : "3512 CA-1, Stinson Beach, CA  94970, United States",
+      "longitude" : -122.6399817,
+      "latitude" : 37.8987042,
       "notes" : "",
-      "latitude" : 37.5779597504537
+      "name" : "Double Dipsea"
     },
     {
-      "name" : "Rock Ridge",
-      "longitude" : -122.037716,
+      "address" : "855 Pacific Ave, Auburn, CA  95603, United States",
       "notes" : "",
-      "address" : "18012 Bollinger Canyon Rd, San Ramon, CA  94583, United States",
-      "latitude" : 37.8077693
+      "name" : "Auburn",
+      "longitude" : -121.0692573,
+      "latitude" : 38.8896244
     }
   ],
+  "name" : "Brazen Racing",
+  "latitude_delta" : 2.3016752836558325,
+  "longitude" : -121.80157989558035,
   "latitude" : 38.277046298353355
 }

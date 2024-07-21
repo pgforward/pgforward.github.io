@@ -1,77 +1,78 @@
 {
-  "blue" : 0.2392156720161438,
-  "name" : "Brazen Racing",
+  "longitude_delta" : 2.966411414796738,
   "green" : 0.30196085572242737,
-  "latitude" : 38.277046298353355,
-  "longitude" : -121.80157989558035,
-  "latitude_delta" : 2.3016752836558325,
+  "opacity" : 1,
+  "symbol" : "figure.run",
+  "longitude" : -122.3530884696939,
+  "latitude" : 38.09589450132154,
+  "name" : "Brazen Racing",
+  "red" : 0.9215686917304993,
   "placemarks" : [
     {
-      "event_date" : null,
-      "name" : "Double Dipsea",
-      "notes" : "",
-      "longitude" : -122.6399817,
-      "address" : "3512 CA-1, Stinson Beach, CA  94970, United States",
-      "latitude" : 37.8987042
-    },
-    {
-      "address" : "855 Pacific Ave, Auburn, CA  95603, United States",
-      "longitude" : -121.0692573,
-      "latitude" : 38.8896244,
-      "name" : "Auburn",
-      "event_date" : null,
+      "event_date" : 743232480,
+      "longitude" : -122.1042448,
+      "address" : "17404 Lake Chabot Rd, Castro Valley, CA  94546, United States",
+      "latitude" : 37.7151264,
+      "name" : "Lakeside Laps",
       "notes" : ""
     },
     {
-      "name" : "Summer Breeze",
-      "latitude" : 37.695105,
-      "longitude" : -122.186457,
+      "address" : "Diablo Foothills Regional Park, Diablo Scenic Trail, Walnut Creek, CA  94598, United States",
+      "longitude" : -121.99519444444445,
       "notes" : "",
-      "event_date" : null,
-      "address" : "14001 Monarch Bay Dr, San Leandro, CA  94577, United States"
+      "name" : "Diablo Summit Stomp",
+      "event_date" : 751090260,
+      "latitude" : 37.89055555555556
+    },
+    {
+      "name" : "Bear Creek",
+      "latitude" : 37.93543233592575,
+      "notes" : "",
+      "address" : "Bear Creek Rd, Briones, CA  94549, United States",
+      "event_date" : 745042320,
+      "longitude" : -122.17983848228543
+    },
+    {
+      "event_date" : 748670880,
+      "address" : "18012 Bollinger Canyon Rd, San Ramon, CA  94583, United States",
+      "notes" : "",
+      "latitude" : 37.8077693,
+      "name" : "Rocky Ridge",
+      "longitude" : -122.037716
+    },
+    {
+      "address" : "3512 CA-1, Stinson Beach, CA  94970, United States",
+      "longitude" : -122.6399817,
+      "name" : "Double Dipsea",
+      "latitude" : 37.8987042,
+      "notes" : "",
+      "event_date" : 746251740
+    },
+    {
+      "notes" : "",
+      "name" : "Auburn",
+      "event_date" : 749880600,
+      "latitude" : 38.8896244,
+      "address" : "855 Pacific Ave, Auburn, CA  95603, United States",
+      "longitude" : -121.0692573
+    },
+    {
+      "longitude" : -122.186457,
+      "latitude" : 37.695105,
+      "name" : "Summer Breeze",
+      "notes" : "Test",
+      "address" : "14001 Monarch Bay Dr, San Leandro, CA  94577, United States",
+      "event_date" : 744437220
     },
     {
       "address" : "",
       "event_date" : null,
-      "longitude" : -121.69052340939476,
-      "name" : "Badger Cove",
       "latitude" : 37.5779597504537,
-      "notes" : ""
-    },
-    {
-      "address" : "18012 Bollinger Canyon Rd, San Ramon, CA  94583, United States",
-      "latitude" : 37.8077693,
-      "event_date" : null,
-      "longitude" : -122.037716,
-      "name" : "Rock Ridge",
-      "notes" : ""
-    },
-    {
-      "longitude" : -121.99519444444445,
+      "longitude" : -121.69052340939476,
       "notes" : "",
-      "event_date" : null,
-      "name" : "Diablo Summit Stomp",
-      "address" : "Diablo Foothills Regional Park, Diablo Scenic Trail, Walnut Creek, CA  94598, United States",
-      "latitude" : 37.89055555555556
-    },
-    {
-      "latitude" : 37.7151264,
-      "longitude" : -122.1042448,
-      "event_date" : 743232480,
-      "notes" : "",
-      "name" : "Lakeside Laps",
-      "address" : "17404 Lake Chabot Rd, Castro Valley, CA  94546, United States"
-    },
-    {
-      "latitude" : 37.93543233592575,
-      "name" : "Bear Creek",
-      "longitude" : -122.17983848228543,
-      "address" : "Bear Creek Rd, Briones, CA  94549, United States",
-      "notes" : "",
-      "event_date" : null
+      "name" : "Badger Cove"
     }
   ],
-  "red" : 0.9215686917304993,
-  "opacity" : 1,
-  "longitude_delta" : 2.499832177282997
+  "latitude_delta" : 2.9803498787202543,
+  "blue" : 0.2392156720161438
 }

@@ -1,77 +1,78 @@
 {
-  "opacity" : 1,
+  "latitude" : 36.98293238917178,
+  "longitude" : -121.454718681892,
+  "symbol" : "figure.stand",
   "name" : "Coastal Trail Runs",
-  "latitude_delta" : 3.6966384864518673,
   "placemarks" : [
     {
-      "name" : "Diablo Train Run",
-      "address" : "96 Mitchell Canyon Road, Clayton, CA  94517, United States",
-      "latitude" : 37.9215878,
-      "longitude" : -121.9411029,
+      "name" : "Spooners Cove Trail Run",
+      "latitude" : 35.2835182,
+      "address" : "3550 Pecho Valley Rd, Los Osos, CA  93402, United States",
+      "longitude" : -120.8805599,
       "notes" : "",
-      "event_date" : null
+      "event_date" : 482323440
     },
     {
+      "latitude" : 37.8189988,
+      "event_date" : 482323440,
       "notes" : "",
       "address" : "10000 Skyline Blvd, Oakland, CA 94619, United States",
-      "longitude" : -122.1811322,
-      "event_date" : null,
-      "latitude" : 37.8189988,
-      "name" : "Redwood (Summer) Trail Run"
+      "name" : "Redwood (Summer) Trail Run",
+      "longitude" : -122.1811322
     },
     {
-      "name" : "ZombieRunner Quarry Lakes",
-      "address" : "2100 Isherwood Way, Fremont, CA  94536, United States",
-      "event_date" : null,
-      "latitude" : 37.5791013,
-      "longitude" : -122.0076939,
+      "notes" : "",
+      "longitude" : -122.4928863,
+      "address" : "Lake Merced Blvd and Sunset Blvd, San Francisco, CA 94132, United States",
+      "event_date" : 482323440,
+      "latitude" : 37.7285927,
+      "name" : "Ruth Anderson Memorial Endurance Run"
+    },
+    {
+      "address" : "985 Hellyer Ave, San Jose, CA  95111, United States",
+      "notes" : "",
+      "event_date" : 482323440,
+      "name" : "New Year's One Day",
+      "latitude" : 37.2854467,
+      "longitude" : -121.810949
+    },
+    {
+      "address" : "1100 Kings Mountain Rd, Woodside, CA  94062, United States",
+      "latitude" : 37.4404776,
+      "name" : "Crystal Springs Trail Run",
+      "longitude" : -122.2918451,
+      "notes" : "",
+      "event_date" : 482323440
+    },
+    {
+      "notes" : "",
+      "event_date" : 482323440,
+      "longitude" : -122.1043544,
+      "latitude" : 37.717273,
+      "name" : "Lake Chabot Trail Run",
+      "address" : "17600 Lake Chabot Rd, Oakland, CA  94546, United States"
+    },
+    {
+      "event_date" : 482323440,
+      "longitude" : -121.9411029,
+      "latitude" : 37.9215878,
+      "name" : "Diablo Train Run",
+      "address" : "96 Mitchell Canyon Road, Clayton, CA  94517, United States",
       "notes" : ""
     },
     {
-      "latitude" : 35.2835182,
-      "name" : "Spooners Cove Trail Run",
+      "latitude" : 37.5791013,
+      "name" : "ZombieRunner Quarry Lakes",
+      "longitude" : -122.0076939,
+      "event_date" : 482323440,
       "notes" : "",
-      "address" : "3550 Pecho Valley Rd, Los Osos, CA  93402, United States",
-      "event_date" : null,
-      "longitude" : -120.8805599
-    },
-    {
-      "latitude" : 37.2854467,
-      "address" : "985 Hellyer Ave, San Jose, CA  95111, United States",
-      "longitude" : -121.810949,
-      "notes" : "",
-      "event_date" : null,
-      "name" : "New Year's One Day"
-    },
-    {
-      "notes" : "",
-      "name" : "Ruth Anderson Memorial Endurance Run",
-      "longitude" : -122.4928863,
-      "address" : "Lake Merced Blvd and Sunset Blvd, San Francisco, CA 94132, United States",
-      "latitude" : 37.7285927,
-      "event_date" : null
-    },
-    {
-      "event_date" : null,
-      "address" : "1100 Kings Mountain Rd, Woodside, CA  94062, United States",
-      "latitude" : 37.4404776,
-      "longitude" : -122.2918451,
-      "notes" : "",
-      "name" : "Crystal Springs Trail Run"
-    },
-    {
-      "latitude" : 37.717273,
-      "notes" : "",
-      "name" : "Lake Chabot Trail Run",
-      "longitude" : -122.1043544,
-      "address" : "17600 Lake Chabot Rd, Oakland, CA  94546, United States",
-      "event_date" : null
+      "address" : "2100 Isherwood Way, Fremont, CA  94536, United States"
     }
   ],
-  "blue" : 0.3999999761581421,
-  "longitude" : -121.454718681892,
+  "latitude_delta" : 3.6966384864518673,
   "longitude_delta" : 3.945757294135177,
+  "blue" : 0.3999999761581421,
   "green" : 0.7686274647712708,
-  "latitude" : 36.98293238917178,
+  "opacity" : 1,
   "red" : 0.39215677976608276
 }

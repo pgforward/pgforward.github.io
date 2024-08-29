@@ -1,0 +1,78 @@
+{
+  "placemarks" : [
+    {
+      "latitude" : 37.695105,
+      "longitude" : -122.186457,
+      "notes" : "Test",
+      "event_date" : 744437220,
+      "name" : "Summer Breeze",
+      "address" : "14001 Monarch Bay Dr, San Leandro, CA  94577, United States"
+    },
+    {
+      "latitude" : 37.8077693,
+      "notes" : "",
+      "address" : "18012 Bollinger Canyon Rd, San Ramon, CA  94583, United States",
+      "longitude" : -122.037716,
+      "event_date" : 748670880,
+      "name" : "Rocky Ridge"
+    },
+    {
+      "event_date" : 735362520,
+      "latitude" : 37.5779597504537,
+      "name" : "Badger Cove",
+      "address" : "",
+      "longitude" : -121.69052340939476,
+      "notes" : ""
+    },
+    {
+      "name" : "Bear Creek",
+      "longitude" : -122.17983848228543,
+      "event_date" : 745042320,
+      "notes" : "",
+      "latitude" : 37.93543233592575,
+      "address" : "Bear Creek Rd, Briones, CA  94549, United States"
+    },
+    {
+      "name" : "Diablo Summit Stomp",
+      "event_date" : 751090260,
+      "longitude" : -121.99519444444445,
+      "latitude" : 37.89055555555556,
+      "address" : "Diablo Foothills Regional Park, Diablo Scenic Trail, Walnut Creek, CA  94598, United States",
+      "notes" : ""
+    },
+    {
+      "latitude" : 37.7151264,
+      "address" : "17404 Lake Chabot Rd, Castro Valley, CA  94546, United States",
+      "name" : "Lakeside Laps",
+      "longitude" : -122.1042448,
+      "notes" : "",
+      "event_date" : 743232480
+    },
+    {
+      "longitude" : -122.6399817,
+      "latitude" : 37.8987042,
+      "address" : "3512 CA-1, Stinson Beach, CA  94970, United States",
+      "name" : "Double Dipsea",
+      "notes" : "",
+      "event_date" : 746251740
+    },
+    {
+      "address" : "855 Pacific Ave, Auburn, CA  95603, United States",
+      "name" : "Auburn",
+      "latitude" : 38.8896244,
+      "longitude" : -121.0692573,
+      "notes" : "",
+      "event_date" : 749880600
+    }
+  ],
+  "latitude_delta" : 2.9805053059189603,
+  "name" : "Brazen Racing",
+  "red" : 0.9215686917304993,
+  "symbol" : "figure.run",
+  "opacity" : 1,
+  "latitude" : 38.09561300692772,
+  "green" : 0.30196085572242737,
+  "longitude" : -122.3530884696939,
+  "longitude_delta" : 2.9665547059011743,
+  "blue" : 0.2392156720161438
+}
